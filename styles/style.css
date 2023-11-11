@@ -1,0 +1,10 @@
+#cat-div {
+    width: 100%;
+    margin: auto;
+}
+
+.cats {
+    width: 50%;
+    height: auto;
+    border-radius: 0.25rem;
+}
